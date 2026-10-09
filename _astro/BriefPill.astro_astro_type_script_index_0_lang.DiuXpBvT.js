@@ -1,0 +1,1 @@
+import"./brief.C71s5ANq.js";

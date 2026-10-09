@@ -1,0 +1,1 @@
+import{n as e}from"./enhance.CJt2oiTb.js";var t=document.querySelector(`form[data-pack-form]`);t&&e(t,`contact`);

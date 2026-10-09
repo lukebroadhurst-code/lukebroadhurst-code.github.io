@@ -1,0 +1,1 @@
+import{t as e}from"./strip-nav.CNPSJpQR.js";document.querySelectorAll(`[data-doubts]`).forEach(t=>e(t));

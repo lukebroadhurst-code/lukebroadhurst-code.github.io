@@ -1,0 +1,1 @@
+var e=(e,t={})=>new Intl.NumberFormat(`en-GB`,{style:`currency`,currency:`GBP`,maximumFractionDigits:t.dp??0,minimumFractionDigits:t.dp??0}).format(e),t=e=>new Intl.NumberFormat(`en-GB`).format(Math.round(e)),n=.2,r=e=>e.toLowerCase().replace(/&/g,`and`).replace(/[^a-z0-9]+/g,`-`).replace(/^-|-$/g,``);export{r as i,e as n,t as r,n as t};

@@ -1,0 +1,1 @@
+import{n as e}from"./strip-nav.CNPSJpQR.js";document.querySelectorAll(`[data-x="chiprow"]`).forEach(t=>e(t,``,`nearest`));
